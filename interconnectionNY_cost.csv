@@ -1,0 +1,295 @@
+﻿Queue ID,Queue ID 2,Queue Date,State,County,Resource Type,Nameplate MW,Interconnecting Transmission Owner,Study Type,Study Date,Request Status,$2022 POI Cost/kW,$2022 Network Cost/kW,$2022 Total Cost/kW
+142,,10/30/03,NY,Steuben,Wind Land,50.6,New York State Electric and Gas ,System Impact,5/31/06,Withdrawn, $104.37 , $-   , $104.37 
+144,,2/18/04,NY,Wyoming,Wind Land,129,New York State Electric and Gas ,Facilities - Part 2 (Class Year),9/2/08,Complete, $2.82 , $77.91 , $80.73 
+147,,4/16/04,NY,Madison,Wind Land,41.4,National Grid,Feasibility,6/12/06,Withdrawn, $92.76 , $-   , $92.76 
+150,,6/17/04,NY,Ostego,Wind Land,70,National Grid,System Impact,11/24/08,Withdrawn, $43.90 , $13.72 , $57.62 
+152,,7/23/04,NY,Delaware,Wind Land,129,New York State Electric and Gas ,System Impact,5/12/06,Withdrawn, $40.21 , $-   , $40.21 
+155,,9/17/04,NY,Steuben,Wind Land,150,New York State Electric and Gas ,System Impact,11/25/08,Withdrawn, $10.71 , $2.98 , $13.69 
+156,,9/28/04,NY,Herkimer,Wind Land,120,National Grid,Facilities - Part 1,6/6/07,Complete, $54.30 , $9.49 , $63.78 
+160,,10/12/04,NY,Franklin,Wind Land,101.2,New York State Electric and Gas ,Feasibility,5/24/06,Withdrawn, $52.18 , $-   , $52.18 
+157,,10/12/04,NY,Herkimer,Wind Land,100,National Grid,System Impact,11/10/08,Withdrawn, $-   , $57.94 , $57.94 
+161,,12/7/04,NY,Clinton,Wind Land,77.5,New York Power Authority,System Impact,5/12/06,Complete, $39.78 , $-   , $39.78 
+163,,1/13/05,NY,Steuben,Wind Land,100,New York State Electric and Gas ,Feasibility,10/27/06,Withdrawn, $52.81 , $-   , $52.81 
+171,,2/8/05,NY,Clinton,Wind Land,130,New York Power Authority,System Impact,5/12/06,Complete, $23.71 , $-   , $23.71 
+169,,2/8/05,NY,Genesee,Wind Land,79.2,National Grid,System Impact,2/16/07,Withdrawn, $54.13 , $-   , $54.13 
+168,,2/8/05,NY,Wyoming,Wind Land,132,New York State Electric and Gas ,System Impact,5/24/06,Withdrawn, $37.76 , $48.55 , $86.31 
+166,,2/8/05,NY,Jefferson,Wind Land,130,National Grid,Facilities - Part 2 (Class Year),9/2/08,Withdrawn, $7.62 , $11.96 , $19.58 
+178,,2/14/05,NY,Cattaraugus,Wind Land,99,National Grid,System Impact,12/8/06,Withdrawn, $40.28 , $12.19 , $52.46 
+175,,2/14/05,NY,Clinton,Wind Land,79.9,New York Power Authority,System Impact,5/12/06,Complete, $16.78 , $-   , $16.78 
+174,,2/14/05,NY,Clinton,Wind Land,99,New York Power Authority,System Impact,5/12/06,Complete, $33.85 , $-   , $33.85 
+172,,2/14/05,NY,Clinton,Wind Land,79.5,New York Power Authority,System Impact,5/12/06,Complete, $50.58 , $-   , $50.58 
+179,,2/14/05,NY,Franklin,Wind Land,102,New York State Electric and Gas ,Feasibility,8/29/06,Withdrawn, $51.78 , $-   , $51.78 
+177,,2/14/05,NY,Wyoming,Wind Land,126,New York State Electric and Gas ,Facilities - Part 2 (Class Year),9/2/08,Complete, $2.89 , $79.75 , $82.64 
+180,,2/23/05,NY,Wyoming,Wind Land,165,New York State Electric and Gas ,Feasibility,7/25/06,Withdrawn, $69.05 , $-   , $69.05 
+182,,3/21/05,NY,Steuben,Wind Land,62.5,New York State Electric and Gas ,Facilities - Part 2 (Class Year),9/2/08,Complete, $5.31 , $129.34 , $134.65 
+186,,4/1/05,NY,Herkimer,Wind Land,150,National Grid,Facilities - Part 1,1/12/07,Withdrawn, $131.44 , $18.49 , $149.93 
+187,,4/5/05,NY,Clinton,Wind Land,110,New York Power Authority,Feasibility,7/26/06,Withdrawn, $36.56 , $-   , $36.56 
+189,,4/8/05,NY,Jefferson,Wind Land,126,National Grid,System Impact,4/30/07,Withdrawn, $25.12 , $29.00 , $54.12 
+193,,5/17/05,NY,Wyoming,Wind Land,60,New York State Electric and Gas ,Feasibility,8/25/06,Withdrawn, $16.75 , $-   , $16.75 
+197,,7/1/05,NY,Lewis,Wind Land,78,National Grid,Facilities - Part 2 (Class Year),1/20/10,Withdrawn, $94.73 , $12.11 , $106.84 
+198,,7/21/05,NY,Chautauqua,Wind Land,79.8,National Grid,System Impact,2/14/08,Withdrawn, $-   , $130.78 , $130.78 
+199,135,7/26/05,NY,Steuben,Wind Land,125,New York State Electric and Gas ,Facilities - Part 2 (Class Year),9/2/08,Complete, $42.59 , $60.46 , $103.05 
+203,,10/21/05,NY,Genesee,Wind Land,478.5,New York State Electric and Gas ,System Impact,2/15/08,Withdrawn, $24.73 , $1.26 , $25.99 
+204,,10/27/05,NY,Steuben,Wind Land,150,New York State Electric and Gas ,Feasibility,12/18/06,Withdrawn, $66.48 , $21.89 , $88.38 
+207,,1/12/06,NY,Jefferson,Wind Land,210,National Grid,Facilities - Part 2 (Class Year),1/20/10,Withdrawn, $15.55 , $13.25 , $28.80 
+209,,2/10/06,NY,Nassau,Natural Gas,100,Long Island Power Authority,Feasibility,1/29/07,Withdrawn, $223.17 , $-   , $223.17 
+215,,4/3/06,NY,Franklin,Wind Land,300,New York Power Authority,Feasibility,3/1/07,Withdrawn, $8.98 , $-   , $8.98 
+211,,4/3/06,NY,Clinton,Wind Land,21,New York Power Authority,Facilities - Part 2 (Class Year),9/2/08,Complete, $-   , $83.60 , $83.60 
+212,173,4/3/06,NY,Wyoming,Wind Land,100.5,"Village of Arcade, National Grid",Facilities - Part 2 (Class Year),9/2/08,Complete, $39.07 , $93.24 , $132.31 
+213,,4/3/06,NY,Clinton,Wind Land,21,New York Power Authority,Facilities - Part 2 (Class Year),9/2/08,Withdrawn, $-   , $83.60 , $83.60 
+214,,4/3/06,NY,Franklin,Wind Land,106.5,New York Power Authority,Facilities - Part 2 (Class Year),9/2/08,Complete, $44.27 , $16.48 , $60.75 
+217,,6/6/06,PA,Tioga,Wind Land,115,New York State Electric and Gas ,Feasibility,3/27/07,Withdrawn, $154.38 , $-   , $154.38 
+219,,7/12/06,NY,Niagara,Natural Gas,630,National Grid,Feasibility,7/17/07,Withdrawn, $49.72 , $-   , $49.72 
+221,220,7/19/06,PA,Bradford,Wind Land,250,New York State Electric and Gas ,System Impact,2/13/08,Withdrawn, $67.12 , $-   , $67.12 
+222,,7/21/06,NY,Chautauqua,Wind Land,90,National Grid,Facilities - Part 2 (Class Year),11/8/11,Withdrawn, $140.19 , $51.38 , $191.57 
+224,201,8/23/06,NY,Queens,Natural Gas,250,Consolidated Edison,Facilities - Part 2 (Class Year),9/24/13,Withdrawn, $10.61 , $16.57 , $27.18 
+227,,9/28/06,NY,Orleans,Wind Land,120,National Grid,Feasibility,4/29/08,Withdrawn, $34.15 , $27.00 , $61.15 
+231,,11/2/06,NY,Seneca,Biomass,6.4,New York State Electric and Gas ,System Impact,2/1/08,Withdrawn, $-   , $60.03 , $60.03 
+232,,11/27/06,NJ,Bayonne,Natural Gas,500,Consolidated Edison,Facilities - Part 2 (Class Year),11/8/11,Complete, $3.06 , $186.10 , $189.15 
+233,,11/27/06,NY,Warren,Hydro,8.45,National Grid,Facilities - Part 2 (Class Year),1/20/10,Complete, $21.07 , $-   , $21.07 
+234,,12/8/06,NY,Erie,Wind Land,45,National Grid,Facilities - Part 2 (Class Year),1/20/10,Complete, $10.45 , $13.54 , $23.98 
+236,,12/14/06,NY,Tioga,Wind Land,150,New York State Electric and Gas ,System Impact,11/14/08,Withdrawn, $92.48 ,  $-    , $92.48 
+237,,1/9/07,NY,Cattaraugus,Wind Land,72.5,National Grid,Facilities - Part 2 (Class Year),11/8/11,Withdrawn, $64.81 , $32.98 , $97.79 
+239,,1/30/07,NY,Yates,Wind Land,99,New York State Electric and Gas ,System Impact,12/16/10,Withdrawn, $58.80 , $23.88 , $82.68 
+240,,2/26/07,NY,Cattaraugus,Wind Land,100,National Grid,Feasibility,5/16/08,Withdrawn, $-   , $163.46 , $163.46 
+245,,4/17/07,NY,Montgomery,Biomass,3.2,National Grid,Facilities - Part 2 (Class Year),11/8/11,Complete, $26.56 , $165.12 , $191.68 
+246,,6/1/07,NY,Jefferson,Wind Land,250,National Grid,System Impact,1/18/10,Withdrawn, $12.57 , $3.39 , $15.97 
+247,,6/11/07,NY,Monroe,Natural Gas,300,Rochester Gas & Electric Corporation,System Impact,6/17/10,Withdrawn, $19.42 , $59.55 , $78.98 
+251,,7/5/07,NY,Orange,Natural Gas,680,New York Power Authority,Facilities - Part 2 (Class Year),9/24/13,Complete, $2.02 , $64.74 , $66.76 
+254,,8/14/07,NY,Cahatauqua,Wind Land,124.8,National Grid,System Impact,2/19/09,Withdrawn, $87.27 , $10.09 , $97.37 
+256,,9/4/07,NY,Niagara,Wind Land,70.5,New York State Electric and Gas ,Feasibility,6/10/08,Withdrawn, $-   , $0.67 , $0.67 
+260,,9/25/07,NY,Rensselaer,Flywheel,20,New York State Electric and Gas ,Facilities - Part 2 (Class Year),11/8/11,Complete, $109.66 , $12.04 , $121.70 
+261,,10/2/07,NY,Kings,Natural Gas,88,Consolidated Edison,System Impact,2/11/10,Withdrawn, $-   , $41.43 , $41.43 
+262,,10/5/07,NY,Schoharie,Wind Land,70,National Grid,Feasibility,8/15/08,Withdrawn, $9.60 , $1.37 , $10.98 
+263,,10/12/07,NY,Wyoming,Wind Land,88.5,New York State Electric and Gas ,Facilities - Part 2 (Class Year),11/8/11,Complete, $2.78 , $141.69 , $144.47 
+266,,11/28/07,NY,Queens,Natural Gas,250,New York Power Authority,Facilities - Part 2 (Class Year),1/6/15,Withdrawn, $52.66 , $1.93 , $54.60 
+267,,11/30/07,NY,New York,Wind Offshore,601,Consolidated Edison,Feasibility,1/1/10,Withdrawn, $-   , $14.12 , $14.12 
+270,,12/13/07,NY,Jefferson,Wind Land,268.8,New York Power Authority,System Impact,2/19/09,Withdrawn, $129.92 , $-   , $129.92 
+271,,12/20/07,NY,Chautauqua,Wind Land,124.8,National Grid,System Impact,2/12/10,Withdrawn, $73.04 , $4.70 , $77.74 
+276,,1/30/08,NY,Cortland,Wind Land,90,National Grid,Facilities - Part 2 (Class Year),1/25/21,Active, $138.38 , $11.16 , $149.54 
+277,,2/4/08,NY,Oswego,Nuclear,1640,National Grid,Feasibility,2/4/09,Withdrawn, $26.14 , $4.27 , $30.41 
+281,,2/20/08,NY,Rockland,Pumped Hydro,1000,"Orange and Rockland Utilities, Consolidated Edison",Feasibility,6/17/10,Withdrawn, $20.12 , $3.77 , $23.89 
+282,,2/28/08,NY,Chautauqua,Wind Land,101.2,National Grid,System Impact,2/12/10,Withdrawn, $103.12 , $11.31 , $114.42 
+285,,3/27/08,NY,Cattaraugus,Wind Land,79.2,National Grid,Feasibility,9/7/09,Withdrawn, $72.29 , $4.63 , $76.92 
+308,,8/20/08,NY,Queens,Natural Gas,576,New York Power Authority,Facilities - Part 2 (Class Year),11/8/11,Complete, $163.41 , $12.66 , $176.07 
+310,,9/22/08,NY,Dutchess,Natural Gas,115,Consolidated Edison,System Impact,2/22/11,Withdrawn, $235.63 , $-   , $235.63 
+313,,9/30/08,NY,St. Lawrence,Wind Land,150,National Grid,Feasibility,10/1/10,Withdrawn, $66.64 , $16.72 , $83.36 
+322,,1/13/09,NY,Madison,Wind Land,59.4,New York State Electric and Gas ,System Impact,2/6/12,Withdrawn, $111.95 , $40.30 , $152.25 
+330,,4/7/09,NY,Suffolk,Solar,31.5,Long Island Power Authority,Facilities - Part 2 (Class Year),11/8/11,Complete, $57.60 , $-   , $57.60 
+335,,6/9/09,NY,Cattaraugus,Wind Land,150,National Grid,Feasibility,11/10/10,Withdrawn, $28.86 , $37.10 , $65.97 
+336,,6/29/09,NY,Tompkins,Wind Land,50,New York State Electric and Gas ,Feasibility,4/15/11,Withdrawn, $86.96 , $19.95 , $106.91 
+347,,12/2/09,NY,Delaware,Wind Land,50.4,New York State Electric and Gas ,System Impact,8/2/13,Withdrawn, $106.10 , $27.58 , $133.68 
+349,,12/30/09,NY,Orange,Biomass,19,Central Hudson Gas & Electric,Facilities - Part 2 (Class Year),9/24/13,Withdrawn, $0.31 , $32.80 , $33.11 
+350,,2/16/10,NY,Chautauqua,Wind Offshore,810,National Grid,Feasibility,6/27/11,Withdrawn, $0.46 , $27.38 , $27.84 
+353,,4/26/10,NY,Chautauqua,Biomass,3.2,National Grid,System Impact,3/29/11,Complete, $2.53 , $3.25 , $5.77 
+354,,5/13/10,NY,St. Lawrence,Wind Land,100,National Grid,Feasibility,4/7/11,Withdrawn, $3.70 , $91.28 , $94.98 
+360,,12/22/10,NY,Schuyler,Wind Land,122.4,New York State Electric and Gas ,System Impact,7/29/13,Withdrawn, $49.51 , $18.45 , $67.96 
+361,,2/15/11,NY,Queens,Natural Gas,401,Consolidated Edison,Feasibility,9/13/12,Withdrawn, $3.92 , $30.15 , $34.07 
+366,,8/2/11,NY,Schuyler,Wind Land,150.66,New York State Electric and Gas ,Feasibility,8/17/12,Withdrawn, $5.62 , $-   , $5.62 
+369,,10/24/11,NY,Bronx,Natural Gas,172.9,Consolidated Edison,Feasibility,7/11/13,Withdrawn, $75.17 , $96.64 , $171.81 
+372,,10/31/11,NY,Herkimer,Wind Land,33,National Grid,System Impact,2/24/14,Withdrawn, $130.78 , $37.82 , $168.61 
+371,,10/31/11,NY,Delaware,Wind Land,18,New York State Electric and Gas ,Feasibility,7/24/12,Withdrawn, $-   , $204.87 , $204.87 
+383,,5/30/12,NY,Rockland,Natural Gas,775,"Consolidated Edison, Orange and Rockland Utilities",System Impact,10/3/13,Withdrawn, $24.69 , $18.25 , $42.93 
+382,,5/30/12,NY,Kings,Natural Gas,95.5,Consolidated Edison,System Impact,3/29/13,Withdrawn, $4.54 , $36.95 , $41.50 
+387,,7/19/12,NY,Chautauqua,Wind Land,126,National Grid,Facilities - Part 2 (Class Year),5/1/19,Active, $159.86 , $67.44 , $227.29 
+395,,11/12/12,NY,Lewis,Wind Land,79.9,National Grid,Facilities - Part 2 (Class Year),1/30/17,Complete, $93.69 , $29.21 , $122.91 
+396,,11/30/12,NY,Steuben,Wind Land,300,New York State Electric and Gas ,Facilities - Part 2 (Class Year),5/9/18,Active, $6.87 , $-   , $6.87 
+397,,12/21/12,NY,Franklin,Wind Land,77.7,New York Power Authority,Facilities - Part 2 (Class Year),1/30/17,Complete, $5.56 , $43.19 , $48.76 
+398,,1/10/13,NY,Tompkins,Wind Land,12.53,New York State Electric and Gas ,Facilities - Part 1,5/19/15,Withdrawn, $431.36 , $167.11 , $598.47 
+403,,5/28/13,NY,Albany,Natural Gas,78.1,National Grid,Facilities - Part 2 (Class Year),1/30/17,Complete, $-   , $150.33 , $150.33 
+421,,11/1/13,NY,Chautauqua,Wind Land,78.4,National Grid,Facilities - Part 2 (Class Year),5/1/19,Complete, $134.56 , $105.83 , $240.39 
+422,,11/7/13,NY,Steuben,Wind Land,101.2,New York State Electric and Gas ,Facilities - Part 2 (Class Year),5/9/18,Active, $-   , $7.75 , $7.75 
+431,,4/11/14,NY,Yates,Natural Gas,106.3,New York State Electric and Gas ,Facilities - Part 2 (Class Year),1/30/17,Complete, $0.74 , $6.86 , $7.60 
+440,,6/2/14,NY,Chautauqua,Natural Gas,79.4,National Grid,System Impact,6/24/15,Withdrawn, $1.45 , $30.50 , $31.95 
+444,,6/18/14,NY,Dutchess,Natural Gas,1020,Consolidated Edison,Facilities - Part 2 (Class Year),5/9/18,Complete, $-   , $328.78 , $328.78 
+445,,6/30/14,NY,Niagara,Wind Land,201.3,New York State Electric and Gas ,System Impact,6/24/16,Withdrawn, $20.63 , $26.52 , $47.15 
+449,,8/13/14,NY,Madison,Wind Land,72.6,National Grid,System Impact,10/5/16,Withdrawn, $100.64 , $26.01 , $126.65 
+466,,12/16/14,NY,Cattaraugus,Wind Land,132,National Grid,System Impact,5/25/16,Withdrawn, $64.88 , $33.33 , $98.21 
+467,,12/22/14,NY,Suffolk,Solar,24.9,PSEG-Long Island,Facilities - Part 2 (Class Year),5/12/18,Complete, $663.61 , $321.56 , $985.17 
+468,,12/30/14,NY,Oswego,Wind Land,108.9,National Grid,Facilities - Part 2 (Class Year),5/1/19,Withdrawn, $86.85 , $18.24 , $105.09 
+473,,1/21/15,NY,Suffolk,Solar,10,Long Island Power Authority,Feasibility,5/18/16,Withdrawn, $351.61 , $45.74 , $397.35 
+474,,1/30/15,NY,Franklin,Wind Land,200,New York Power Authority,System Impact,3/3/17,Withdrawn, $1.40 , $8.42 , $9.82 
+477,535,2/18/15,NY,Suffolk,Solar,46,Long Island Power Authority,Facilities - Part 2 (Class Year),5/13/18,Complete, $166.63 , $55.72 , $222.35 
+487,,3/9/15,NY,Nassau,Storage,20,Long Island Power Authority,Feasibility,4/30/17,Active, $859.20 ," $1,104.55 "," $1,963.75 "
+494,,3/31/15,NY,Genesee,Wind Land,79.8,National Grid,Facilities - Part 2 (Class Year),5/1/19,Withdrawn, $112.72 , $34.51 , $147.23 
+495,,4/2/15,NY,Montgomery,Solar,90.5,National Grid,Facilities - Part 2 (Class Year),1/25/21,Active, $119.73 , $34.56 , $154.29 
+496,,4/13/15,PA,Clinton,Natural Gas,480,New York State Electric and Gas ,Facilities - Part 2 (Class Year),5/1/19,Withdrawn, $33.06 , $72.47 , $105.53 
+497,,4/24/15,NY,Clinton,Wind Land,303.62,New York Power Authority,System Impact,3/16/18,Active, $18.05 , $-   , $18.05 
+498,,4/29/15,PA,Tioga,Natural Gas,550,New York State Electric and Gas ,Facilities - Part 2 (Class Year),5/9/18,Withdrawn, $30.69 , $66.89 , $97.59 
+505,,6/2/15,NY,Chautauqua,Wind Land,100,National Grid,Facilities - Part 2 (Class Year),5/1/19,Active, $111.19 , $94.21 , $205.40 
+507,,7/2/15,NY,Washington,Hydro,14.862,National Grid,Feasibility,6/30/16,Withdrawn, $10.77 , $4.62 , $15.39 
+510,,8/3/15,NJ,Hudson,Natural Gas,120.4,Consolidated Edison,Facilities - Part 2 (Class Year),5/9/18,Complete, $0.44 , $1.10 , $1.54 
+513,,9/21/15,NY,Wyoming,Storage,20,New York State Electric and Gas ,System Impact,5/25/17,Active, $11.22 , $-   , $11.22 
+514,,10/1/15,NY,Rensselaer,Wind Land,120,National Grid,System Impact,11/28/17,Withdrawn, $78.55 , $26.65 , $105.20 
+515,,10/7/15,NY,New York,Natural Gas,1171,Consolidated Edison,Feasibility,1/16/17,Withdrawn, $51.15 , $65.76 , $116.91 
+519,,11/2/15,NY,Steuben,Wind Land,290.7,New York State Electric and Gas ,Facilities - Part 2 (Class Year),1/25/21,Active, $11.60 , $6.08 , $17.67 
+520,,12/3/15,NY,Madison,Wind Land,72.6,New York State Electric and Gas ,System Impact,1/5/18,Active, $9.06 , $138.88 , $147.94 
+521,,12/15/15,NY,Clinton,Wind Land,448.97,New York Power Authority,System Impact,9/10/18,Active, $10.30 , $13.24 , $23.54 
+522,,12/16/15,NY,Kings,Natural Gas,79.9,Consolidated Edison,System Impact,6/21/18,Active, $-   , $35.20 , $35.20 
+526,,12/23/15,NY,St. Lawrence,Wind Land,100,National Grid,System Impact,11/17/17,Active, $94.26 , $30.86 , $125.12 
+527,,12/23/15,NY,Jefferson,Wind Land,250,National Grid,Feasibility,1/30/17,Withdrawn, $31.38 , $6.12 , $37.50 
+531,,1/11/16,NY,Lewis,Wind Land,105.8,National Grid,Facilities - Part 2 (Class Year),1/25/21,Active, $152.58 , $43.91 , $196.48 
+532,,2/1/16,NY,Allegany,Wind Land,100,"Village of Arcade, National Grid",System Impact,3/27/19,Withdrawn, $-   , $44.14 , $44.14 
+534,,2/3/16,NY,Washington,Solar,20,National Grid,System Impact,12/15/17,Withdrawn, $56.11 , $-   , $56.11 
+545,,5/10/16,NY,Onondaga,Solar,20,National Grid,Feasibility,4/26/17,Active, $100.99 , $-   , $100.99 
+546,,5/19/16,NY,Lewis,Wind Land,79.725,National Grid,Facilities - Part 2 (Class Year),1/25/21,Active, $3.84 , $2.68 , $6.52 
+551,,6/24/16,NY,Monroe,Solar,20,National Grid,Feasibility,6/5/17,Withdrawn, $533.02 , $154.29 , $687.31 
+552,,6/24/16,NY,Monroe,Solar,19.8,National Grid,Feasibility,6/5/17,Withdrawn, $538.40 , $155.85 , $694.26 
+560,,7/8/16,NY,Lewis,Wind Land,100,National Grid,System Impact,12/14/18,Active, $91.95 , $46.58 , $138.53 
+563,,7/25/16,NY,Herkimer,Solar,20,National Grid,System Impact,11/20/18,Withdrawn, $84.94 , $43.84 , $128.78 
+565,,7/25/16,NY,Montgomery,Solar,20,National Grid,System Impact,11/20/18,Active, $84.94 , $43.84 , $128.78 
+564,,7/25/16,NY,Schoharie,Solar,20,National Grid,System Impact,11/20/18,Active, $84.94 , $52.06 , $137.00 
+568,,8/16/16,NY,Delaware,Solar,20,New York State Electric and Gas ,System Impact,11/21/17,Withdrawn, $358.41 , $460.76 , $819.17 
+570,,8/17/16,NY,Albany,Solar,20,National Grid,System Impact,8/22/18,Active, $84.94 , $12.33 , $97.27 
+571,,9/1/16,NY,Genesee,Wind Land,200.1,National Grid,System Impact,9/19/18,Active, $59.70 , $18.35 , $78.05 
+573,,9/6/16,NY,Greene,Solar,10,Central Hudson Gas & Electric,System Impact,2/25/19,Active, $96.90 , $183.04 , $279.94 
+572,,9/6/16,NY,Greene,Solar,20,Central Hudson Gas & Electric,System Impact,2/15/19,Active, $204.57 , $10.77 , $215.34 
+575,,9/16/16,NY,Orange,Solar,20,Orange and Rockland Utilities,System Impact,9/13/18,Active, $164.39 , $-   , $164.39 
+574,,9/16/16,NY,Jefferson,Wind Land,450,National Grid,System Impact,2/13/19,Active, $51.50 , $9.06 , $60.56 
+577,,9/20/16,NY,Greene,Solar,20,Central Hudson Gas & Electric,System Impact,2/25/19,Active, $148.05 , $242.26 , $390.31 
+579,,9/21/16,NY,Broome,Wind Land,124.2,New York State Electric and Gas ,Facilities - Part 2 (Class Year),1/25/21,Active, $37.42 , $60.23 , $97.65 
+581,,10/6/16,NY,Herkimer,Solar,20,National Grid,System Impact,4/11/19,Active, $53.84 , $53.30 , $107.13 
+582,,10/18/16,NY,Schoharie,Solar,20,National Grid,System Impact,11/29/18,Withdrawn, $84.94 , $52.06 , $137.00 
+584,,11/2/16,NY,Cayuga,Solar,20,New York State Electric and Gas ,System Impact,6/13/18,Active, $87.51 , $112.50 , $200.01 
+585,,11/7/16,NY,Livingston,Solar,20,National Grid,Feasibility,5/8/18,Withdrawn, $59.18 , $324.13 , $383.31 
+586,,11/8/16,NY,Herkimer,Solar,20,National Grid,System Impact,11/30/18,Active, $50.41 , $24.11 , $74.53 
+587,,11/8/16,NY,Steuben,Solar,20,New York State Electric and Gas ,Feasibility,4/11/18,Withdrawn, $57.32 , $-   , $57.32 
+592,,12/2/16,NY,Wyoming,Solar,20,New York State Electric and Gas ,System Impact,3/19/18,Active, $87.51 , $112.50 , $200.01 
+591,,12/2/16,NY,Wyoming,Solar,20,New York State Electric and Gas ,Facilities - Part 2 (Class Year),1/25/21,Active, $-   , $70.79 , $70.79 
+590,,12/2/16,NY,Cayuga,Solar,20,New York State Electric and Gas ,System Impact,3/27/18,Active, $252.94 , $325.18 , $578.12 
+589,,12/2/16,NY,Lewis,Solar,15,National Grid,Feasibility,2/27/18,Active, $108.13 , $-   , $108.13 
+595,,12/29/16,NY,Cattaraugus,Storage,100,National Grid,System Impact,3/20/19,Withdrawn, $40.38 , $-   , $40.38 
+594,,12/29/16,NY,Wyoming,Storage,60,New York State Electric and Gas ,System Impact,9/14/18,Active, $50.83 , $65.34 , $116.17 
+596,,1/4/17,NY,Cattaraugus,Wind Land,339.1,National Grid,Facilities - Part 2 (Class Year),1/25/21,Active, $96.86 , $88.87 , $185.73 
+598,,1/10/17,NY,Albany,Solar,20,National Grid,System Impact,8/22/18,Active, $84.94 , $12.33 , $97.27 
+597,,1/10/17,NY,Greene,Solar,20,Central Hudson Gas & Electric,System Impact,2/25/19,Active, $94.22 , $121.12 , $215.34 
+600,,1/12/17,NY,Washington,Solar,20,National Grid,Feasibility,4/6/18,Withdrawn, $38.36 , $100.28 , $138.64 
+601,,1/20/17,NY,Madison,Natural Gas,4,National Grid,Feasibility,1/29/18,Withdrawn, $794.57 , $54.80 , $849.37 
+603,,2/3/17,NY,Suffolk,Solar,7.5,Long Island Power Authority,Feasibility,2/15/19,Withdrawn, $531.23 , $682.93 ," $1,214.17 "
+610,,2/10/17,NY,Livingston,Solar,20,National Grid,System Impact,12/5/18,Withdrawn, $65.76 , $60.28 , $126.04 
+612,695,2/14/17,NY,Suffolk,Wind Offshore,136,Long Island Power Authority,Facilities - Part 2 (Class Year),1/25/21,Active, $10.22 , $16.03 , $26.25 
+613,,2/17/17,NY,Herkimer,Solar,19.9,National Grid,Feasibility,5/8/18,Withdrawn, $38.55 , $30.29 , $68.84 
+616,,3/23/17,NY,Herkimer,Solar,20,National Grid,System Impact,11/19/18,Withdrawn, $50.41 , $24.11 , $74.53 
+621,,3/27/17,NY,Ulster,Solar,20,Central Hudson Gas & Electric,System Impact,10/17/18,Withdrawn, $63.02 , $-   , $63.02 
+619,,3/27/17,NY,Schoharie,Solar,50,National Grid,Facilities - Part 2 (Class Year),1/25/21,Active, $139.48 , $66.75 , $206.23 
+618,,3/27/17,NY,Schenectady,Solar,90,National Grid,Facilities - Part 2 (Class Year),1/25/21,Active, $106.31 , $25.47 , $131.78 
+617,,3/27/17,NY,Schuyler,Solar,50,New York State Electric and Gas ,Facilities - Part 2 (Class Year),1/25/21,Active, $108.92 , $170.84 , $279.76 
+620,,3/27/17,NY,St. Lawrence,Solar,180,New York Power Authority,Facilities - Part 2 (Class Year),1/25/21,Active, $81.27 , $19.02 , $100.30 
+624,,4/11/17,NY,Franklin,Solar,150,National Grid,System Impact,7/31/18,Active, $10.96 , $-   , $10.96 
+629,,4/27/17,NY,Wyoming,Solar,25,New York State Electric and Gas ,System Impact,4/22/19,Active, $20.90 , $26.87 , $47.76 
+635,,6/14/17,NY,Orange,Solar,20,Orange and Rockland Utilities,Feasibility,9/17/18,Withdrawn, $71.93 , $92.47 , $164.39 
+636,,6/15/17,NY,Ulster,Solar,25,Central Hudson Gas & Electric,Feasibility,9/27/18,Withdrawn, $109.60 , $136.56 , $246.15 
+637,,6/29/17,NY,Greene,Solar,100,National Grid,Facilities - Part 2 (Class Year),1/25/21,Active, $125.69 , $31.12 , $156.81 
+638,,7/11/17,NY,Montgomery,Solar,20,National Grid,Feasibility,4/23/18,Active, $84.94 , $60.28 , $145.22 
+644,,7/26/17,NY,Columbia,Solar,60,New York State Electric and Gas ,Facilities - Part 2 (Class Year),1/25/21,Active, $39.76 , $67.87 , $107.63 
+650,,8/3/17,NY,Suffolk,Fuel Cell,18.5,Long Island Power Authority,System Impact,3/1/19,Active, $336.40 , $-   , $336.40 
+649,,8/3/17,NY,Suffolk,Fuel Cell,13.9,Long Island Power Authority,Feasibility,8/1/18,Active, $80.03 , $102.89 , $182.92 
+653,,8/7/17,NY,Clinton,Solar,20,New York State Electric and Gas ,Feasibility,8/13/18,Withdrawn, $404.47 , $-   , $404.47 
+655,,8/11/17,NY,Madison,Wind Land,20,National Grid,System Impact,5/22/19,Withdrawn, $83.44 , $83.44 , $166.89 
+657,,8/11/17,NY,Genesee,Wind Land,20,National Grid,Feasibility,7/18/18,Withdrawn, $503.59 , $120.56 , $624.15 
+662,,9/7/17,NY,Chautauqua,Solar,48.05,National Grid,Feasibility,2/11/19,Withdrawn, $205.93 , $58.04 , $263.97 
+667,,9/14/17,NY,Cattaraugus,Solar,20,National Grid,System Impact,2/12/19,Active, $37.68 , $43.07 , $80.75 
+666,,9/14/17,NY,Machias,Solar,20,National Grid,System Impact,1/10/19,Active, $83.44 , $26.92 , $110.36 
+668,,9/15/17,NY,New York,Natural Gas,1172,Consolidated Edison,System Impact,10/15/18,Active, $53.19 , $68.38 , $121.57 
+669,,9/21/17,NY,Clay,Solar,20,National Grid,System Impact,9/3/19,Withdrawn, $83.44 , $26.92 , $110.36 
+670,,9/21/17,NY,Westmoreland,Solar,20,National Grid,System Impact,8/7/19,Active, $83.44 , $16.15 , $99.60 
+678,,10/26/17,NY,Suffolk,Solar,22.9,Long Island Power Authority,Facilities - Part 2 (Class Year),1/25/21,Active, $92.85 , $145.64 , $238.49 
+680,,11/7/17,NY,Suffolk,Wind Offshore,1200,Long Island Power Authority,System Impact,6/20/21,Active, $72.53 , $93.24 , $165.78 
+679,,11/7/17,NY,Kings,Wind Offshore,1200,Consolidated Edison,System Impact,4/20/21,Active, $2.20 , $2.83 , $5.03 
+683,,1/18/18,NY,Montgomery,Storage,200,Central Hudson Gas & Electric,Facilities - Part 2 (Class Year),1/25/21,Active, $0.29 , $0.46 , $0.75 
+686,,1/26/18,NY,Clinton,Solar,170,New York Power Authority,System Impact,4/9/19,Active, $13.86 , $17.81 , $31.67 
+694,,2/16/18,NY,Albany,Solar,20,Central Hudson Gas & Electric,System Impact,7/29/20,Active, $300.12 , $460.40 , $760.51 
+699,,3/9/18,NY,Queens,Natural Gas,243.79,Consolidated Edison,System Impact,6/14/19,Active, $99.34 , $127.71 , $227.05 
+698,,3/9/18,NY,Queens,Storage,129,Consolidated Edison,System Impact,6/24/19,Active, $126.74 , $162.93 , $289.68 
+697,,3/9/18,NY,Queens,Storage,129,Consolidated Edison,System Impact,6/24/19,Active, $161.81 , $208.02 , $369.84 
+700,,3/13/18,NY,Kings,Storage,300,Consolidated Edison,Feasibility,1/31/19,Active, $-   , $20.67 , $20.67 
+704,,3/20/18,NY,Niagara,Solar,100,National Grid,Facilities - Part 2 (Class Year),1/25/21,Active, $14.30 , $6.72 , $21.02 
+706,,4/25/18,NY,Chenango,Wind Land,100.8,New York State Electric and Gas ,Facilities - Part 2 (Class Year),1/25/21,Active, $143.46 , $110.49 , $253.94 
+709,,5/18/18,NY,Oneida,Solar,165,National Grid,System Impact,11/11/20,Active, $72.15 , $24.50 , $96.65 
+710,,5/29/18,NY,Livingston,Solar,180,National Grid,System Impact,4/1/20,Active, $37.24 , $-   , $37.24 
+715,,6/1/18,NY,Cayuga,Solar,20,New York State Electric and Gas ,System Impact,9/16/19,Withdrawn, $24.71 , $31.76 , $56.47 
+716,,6/4/18,NY,Allegany,Solar,93.5,New York State Electric and Gas ,System Impact,6/25/20,Active, $9.72 , $12.49 , $22.21 
+717,,6/4/18,NY,Steuben,Solar,177,New York State Electric and Gas ,System Impact,7/27/20,Active, $40.27 , $51.77 , $92.04 
+722,,6/7/18,NY,Ontario,Solar,20,Rochester Gas & Electric Corporation,System Impact,4/7/20,Withdrawn, $160.24 , $206.00 , $366.24 
+721,,6/7/18,NY,Genesee,Solar,280,New York Power Authority,Facilities - Part 2 (Class Year),1/25/21,Active, $43.78 , $76.59 , $120.37 
+720,,6/7/18,NY,Seneca,Solar,80,New York State Electric and Gas ,Facilities - Part 2 (Class Year),1/25/21,Active, $194.30 , $133.72 , $328.02 
+718,,6/7/18,NY,Cortland,Solar,50,National Grid,System Impact,5/9/19,Active, $33.38 , $10.77 , $44.14 
+731,,6/11/18,NY,Washington,Solar,20,National Grid,System Impact,5/14/19,Active, $83.44 , $32.30 , $115.75 
+730,,6/11/18,NY,Washington,Solar,20,National Grid,System Impact,5/14/19,Active, $83.44 , $45.76 , $129.20 
+738,,6/12/18,NY,Suffolk,Wind Offshore,816,Long Island Power Authority,System Impact,9/3/19,Active, $4.81 , $6.18 , $10.99 
+737,,6/12/18,NY,Kings,Wind Offshore,816,Consolidated Edison,Facilities - Part 2 (Class Year),6/7/21,Active, $20.74 , $32.53 , $53.27 
+735,,6/12/18,NY,Saratoga,Solar,20,National Grid,System Impact,5/20/19,Active, $83.44 , $32.30 , $115.75 
+734,,6/12/18,NY,Essex,Solar,20,National Grid,System Impact,11/25/19,Active, $83.44 , $43.07 , $126.51 
+740,,6/18/18,NY,Broome,Storage,120,New York State Electric and Gas ,System Impact,12/30/19,Active, $10.29 , $35.26 , $45.54 
+743,,7/16/18,NY,Steuben,Solar,20,New York State Electric and Gas ,System Impact,6/24/19,Withdrawn, $46.40 , $59.65 , $106.06 
+744,,7/18/18,NY,Ulster,Solar,20,Central Hudson Gas & Electric,System Impact,9/18/19,Active, $102.29 , $162.31 , $264.60 
+745,,7/25/18,NY,Orange,Storage,100,Orange and Rockland Utilities,System Impact,12/31/19,Active, $47.11 , $60.56 , $107.67 
+746,,7/30/18,NY,Suffolk,Storage,150,Long Island Power Authority,Facilities - Part 2 (Class Year),4/21/21,Active, $23.57 , $36.97 , $60.55 
+748,,8/9/18,NY,Montgomery,Solar,20,National Grid,System Impact,6/25/19,Active, $83.44 , $32.30 , $115.75 
+756,,8/24/18,NY,Orange,Solar,20,Orange and Rockland Utilities,System Impact,1/29/20,Withdrawn, $81.46 , $104.72 , $186.18 
+759,,9/6/18,NY,Erie,Storage,20,National Grid,System Impact,11/1/19,Active, $83.44 , $16.15 , $99.60 
+758,,9/6/18,NY,Oswego,Natural Gas,27,National Grid,System Impact,5/21/19,Active, $0.35 , $0.45 , $0.80 
+762,,9/17/18,NY,Suffolk,Storage,75,Long Island Power Authority,Feasibility,12/3/19,Withdrawn, $22.55 , $28.99 , $51.54 
+763,,9/25/18,NY,Onondaga,Storage,10,National Grid,System Impact,8/12/19,Withdrawn, $53.84 , $129.20 , $183.04 
+768,,10/1/18,NY,Cortland,Solar,20,New York State Electric and Gas ,System Impact,5/9/19,Active, $25.65 , $32.98 , $58.63 
+769,,10/5/18,NY,Franklin,Storage,20,New York Power Authority,System Impact,2/12/20,Active, $76.80 , $98.74 , $175.54 
+774,,10/18/18,NY,Jefferson,Solar,119,National Grid,System Impact,3/23/20,Active, $13.86 , $4.02 , $17.88 
+775,,10/22/18,NY,Chenango,Solar,20,New York State Electric and Gas ,System Impact,8/12/19,Active, $72.36 , $93.02 , $165.38 
+777,,11/1/18,NY,Livingston,Solar,135,Rochester Gas & Electric Corporation,System Impact,7/24/20,Active, $88.55 , $24.43 , $112.98 
+780,,11/9/18,NY,Schenectady,Solar,20,National Grid,System Impact,1/7/20,Active, $82.45 , $55.85 , $138.30 
+784,,12/11/18,NY,Chenango,Storage,5,New York State Electric and Gas ,System Impact,3/5/20,Active, $42.56 , $-   , $42.56 
+787,,12/20/18,NY,Erie,Storage,150,National Grid,System Impact,10/15/20,Active, $25.53 , $186.53 , $212.07 
+786,,12/20/18,NY,Queens,Storage,187,Consolidated Edison,System Impact,4/30/20,Active, $-   , $292.48 , $292.48 
+791,,1/14/19,NY,Orange,Natural Gas,88.9,Central Hudson Gas & Electric,Facilities - Part 2 (Class Year),1/25/21,Active, $0.23 , $0.36 , $0.59 
+792,,1/29/19,NY,Suffolk,Wind Offshore,850,Long Island Power Authority,System Impact,6/21/21,Active, $4.20 , $5.40 , $9.60 
+800,,2/20/19,NY,St. Lawrence,Solar,240,New York Power Authority,System Impact,12/28/20,Active, $14.55 , $18.70 , $33.25 
+801,,2/21/19,NY,Steuben,Wind Land,147,New York State Electric and Gas ,System Impact,12/8/20,Active, $112.07 , $51.09 , $163.16 
+803,,3/11/19,NY,Westchester,Storage,100,Consolidated Edison,System Impact,10/14/21,Active, $10.21 , $25.54 , $35.75 
+805,,3/22/19,NY,Madison,Solar,140,National Grid,System Impact,3/15/21,Active, $14.59 , $-   , $14.59 
+804,,3/22/19,NY,Erie,Storage,20,New York State Electric and Gas ,System Impact,4/2/21,Active, $23.22 , $29.85 , $53.06 
+807,,3/28/19,NY,Rensselaer,Solar,20,National Grid,System Impact,4/8/20,Active, $98.41 , $31.92 , $130.33 
+815,,4/5/19,NY,Kings,Storage,49.8,Consolidated Edison,System Impact,8/6/20,Active, $1.20 , $3.07 , $4.27 
+825,,4/15/19,NY,Suffolk,Storage,76.86,Long Island Power Authority,System Impact,11/18/20,Active, $25.94 , $33.35 , $59.28 
+827,,4/22/19,NY,Richmond,Storage,15.1,Consolidated Edison,System Impact,3/8/21,Active, $20.29 , $-   , $20.29 
+828,,4/24/19,NY,Tioga,Solar,20,New York State Electric and Gas ,System Impact,12/12/19,Active, $35.33 , $45.42 , $80.75 
+830,,4/26/19,NY,Queens,Storage,79.9,Consolidated Edison,System Impact,11/13/20,Active, $3.52 , $4.53 , $8.06 
+833,,5/6/19,NY,Washington,Solar,20,National Grid,System Impact,3/31/20,Active, $98.41 , $45.21 , $143.62 
+832,,5/6/19,NY,Rensselaer,Solar,20,National Grid,System Impact,2/8/21,Active, $94.48 , $19.15 , $113.63 
+835,,5/7/19,NY,Queens,Storage,56.25,Consolidated Edison,System Impact,11/13/20,Active, $-   , $68.23 , $68.23 
+834,,5/7/19,NY,Queens,Storage,79,Consolidated Edison,System Impact,11/13/20,Active, $-   , $48.58 , $48.58 
+840,,5/9/19,NY,Richmond,Storage,650,Consolidated Edison,System Impact,8/28/20,Active, $6.69 , $773.21 , $779.91 
+848,,5/20/19,NY,St. Lawrence,Solar,20,National Grid,System Impact,6/1/20,Active, $98.41 , $39.90 , $138.30 
+853,,5/24/19,NY,Washington,Solar,20,National Grid,System Impact,4/30/20,Withdrawn, $98.41 , $45.21 , $143.62 
+855,,5/24/19,NY,Washington,Solar,20,National Grid,System Impact,4/30/20,Active, $98.41 , $45.21 , $143.62 
+852,,5/24/19,NY,Niagara,Solar,360,New York State Electric and Gas ,Feasibility,10/7/20,Active, $25.54 , $32.84 , $58.38 
+859,,5/28/19,NY,Niagara,Solar,350,New York State Electric and Gas ,System Impact,10/20/20,Active, $59.17 , $17.07 , $76.24 
+858,,5/28/19,NY,Erie,Solar,350,New York State Electric and Gas ,System Impact,4/20/21,Active, $54.96 , $15.28 , $70.24 
+860,,5/28/19,NY,Steuben,Solar,350,New York Power Authority,System Impact,3/19/21,Active, $20.33 , $30.31 , $50.64 
+857,,5/28/19,NY,Herkimer,Solar,350,New York Power Authority,System Impact,4/20/21,Active, $2.04 , $64.20 , $66.25 
+864,,5/29/19,NY,Jefferson,Solar,120,National Grid,System Impact,12/17/20,Active, $16.40 , $3.55 , $19.95 
+863,,5/29/19,NY,Livingston,Solar,20,Rochester Gas & Electric Corporation,System Impact,3/10/21,Active, $36.11 , $46.42 , $82.53 
+865,,5/31/19,NY,Herkimer,Solar,20,National Grid,System Impact,3/5/21,Active, $94.48 , $25.54 , $120.02 
+866,,6/3/19,NY,Franklin,Wind Land,298.2,New York Power Authority,Feasibility,8/19/20,Active, $2.97 , $3.81 , $6.78 
+869,,6/4/19,NY,Montgomery,Solar,80,National Grid,Feasibility,8/5/20,Active, $122.21 , $62.50 , $184.72 
+873,871,6/5/19,NY,Oneida,Solar,500,New York Power Authority,Feasibility,7/15/20,Active, $21.41 , $27.53 , $48.94 
+882,,6/10/19,NY,Jefferson,Solar,100,National Grid,System Impact,1/6/21,Active, $18.90 , $4.60 , $23.49 
+880,,6/10/19,NY,Franklin,Solar,100,New York State Electric and Gas ,System Impact,1/11/21,Active, $101.52 , $64.51 , $166.03 
+881,,6/10/19,NY,Lewis,Solar,100,National Grid,System Impact,12/15/20,Active, $115.96 , $48.94 , $164.90 
+885,,6/12/19,NY,Herkimer,Solar,20,National Grid,System Impact,3/5/21,Active, $94.48 , $45.96 , $140.45 
+901,,8/16/19,NY,Oswego,Solar,20,National Grid,System Impact,12/8/20,Active, $563.86 , $120.22 , $684.07 
+925,,10/17/19,NY,Suffolk,Storage,100,Long Island Power Authority,System Impact,11/17/20,Active, $23.33 , $29.99 , $53.31 
+682,,10/18/19,NY,Montgomery,Solar,20,National Grid,System Impact,7/25/19,Active, $83.44 , $63.26 , $146.70 
+931,,10/28/19,NY,Queens,Storage,100,Consolidated Edison,System Impact,12/10/20,Active, $36.75 , $48.36 , $85.11 
+942,,11/8/19,NY,Suffolk,Storage,60,Long Island Power Authority,System Impact,1/5/21,Active, $34.98 , $44.96 , $79.94 
+950,,11/21/19,NY,Orleans,Solar,200,National Grid,System Impact,1/15/20,Active, $145.75 , $56.92 , $202.67 
+954,,12/5/19,NY,Westfield,Solar,125,National Grid,System Impact,1/8/21,Active, $91.11 , $28.60 , $119.71 
+953,,12/5/19,NY,Lewis,Solar,125,National Grid,System Impact,2/4/21,Active, $89.07 , $33.91 , $122.98 
+956,,12/10/19,NY,Suffolk,Storage,294.9,Long Island Power Authority,System Impact,11/18/20,Active, $15.88 , $-   , $15.88 
+958,,12/10/19,NY,Nassau,Wind Offshore,1000,Long Island Power Authority,System Impact,2/18/21,Active, $122.86 , $184.44 , $307.30 
+959,,12/11/19,NY,Nassau,Wind Offshore,500,Long Island Power Authority,System Impact,2/23/21,Active, $254.38 , $368.88 , $623.26 
+966,,12/21/19,NY,Suffolk,Storage,40.3,Long Island Power Authority,System Impact,3/12/21,Active, $133.11 , $171.12 , $304.23 
+965,,12/21/19,NY,Suffolk,Storage,76.86,Long Island Power Authority,System Impact,3/12/21,Active, $7.49 , $157.15 , $164.64 
+967,,12/27/19,NY,Ulster,Storage,94,Central Hudson Gas & Electric,System Impact,1/14/21,Active, $29.56 , $-   , $29.56 
+971,,1/10/20,NY,Suffolk,Storage,293.5,Long Island Power Authority,System Impact,3/4/21,Active, $19.37 , $24.90 , $44.28 
+994,,2/12/20,NY,Suffolk,Storage,90,Long Island Power Authority,System Impact,12/18/20,Active, $66.64 , $85.66 , $152.30 
+995,,2/27/20,NY,Genesee,Solar,130,National Grid,System Impact,2/18/21,Active, $68.75 , $26.32 , $95.07 
